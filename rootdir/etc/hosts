@@ -1,2 +1,10 @@
+9.9.0.1         connman.vn.tesla.services
+9.9.0.1         www.teslamotors.com
+9.9.0.1		hermes-prd.vn.tesla.services
+
+9.9.0.1		connman.vn.cloud.tesla.cn
+9.9.0.1		www.tesla.cn
+9.9.0.1		hermes-prd.vn.cloud.tesla.cn
+
 127.0.0.1       localhost
 ::1             ip6-localhost
